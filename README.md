@@ -13,7 +13,6 @@ This is a solution to the [Weather app challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -41,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/bassiony1/weather-app](https://github.com/bassiony1/weather-app)
+- Live Site URL: [https://weather-app-alpha-six-89.vercel.app/](https://weather-app-alpha-six-89.vercel.app/)
 
 ## My process
 
@@ -54,15 +53,12 @@ Users should be able to:
 - [Redux toolkit]('http://redux-toolkit.js.org/') - State Management
 - [React](https://reactjs.org/) - JS library
 
-
 ### What I learned
 
 it was a fun project to play with redux toolkit for state management on a small project and tailwind customization
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Mahmoud Bassiony](https://bassiony1.github.io/portfolio/)
+- Frontend Mentor - [@bassiony1](https://www.frontendmentor.io/profile/bassiony1)
+- Twitter - [@bassiony17](https://www.twitter.com/bassiony17)
